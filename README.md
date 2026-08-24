@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente estoy estudiando el grado medio de sistemas microinformaticos y redes en el IES Castelar. También estoy aprendiendo a programar en Java. Voy a hacer proyectos en un futuro para mostrar mi forma de programar. Tengo dos gatos (Zipi y Zape)
+Actualmente estoy estudiando el grado superior de desarrollo de aplicaciones web en el IES Castelar. También estoy aprendiendo a programar en Java. Voy a hacer proyectos en un futuro para mostrar mis avances al programar.
 
 
 ## 🌐 Socials:
